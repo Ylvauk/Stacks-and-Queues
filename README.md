@@ -33,5 +33,6 @@ To learn more about stacks and queues, there is one component to this lesson:
 
 -   A deep [dive](https://medium.com/@hitherejoe/data-structures-stacks-queues-a3b3591c8cb0) into Stacks and Queues with plenty of diagrams! 
 - This [overview](https://medium.com/javascript-in-plain-english/javascript-what-are-stack-and-queue-79df7af5a566) investigates JavaScript implementations of stacks and queues.
+- Looking for more comp sci resources? Check out Khan Academy's tutorials on [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and the [science of the Internet](https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org). 
 
 Find a great resource? Share it out in our Tech Talk channel! 
