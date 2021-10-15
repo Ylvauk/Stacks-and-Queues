@@ -20,8 +20,8 @@ describe('Stack', () => {
 	it('should have a `pop` method that removes the last item from the end of a stack and returns it', () => {
 		const s = new Stack();
 		expect(s.pop).to.not.be.undefined;
-		q.push(6);
-		q.push(7);
+		s.push(6);
+		s.push(7);
 		const poppedItem = s.pop();
 		expect(poppedItem).to.equal(7);
 		expect(s.length).to.equal(1);
