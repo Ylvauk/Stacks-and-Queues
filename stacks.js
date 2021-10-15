@@ -1,7 +1,6 @@
 class Stack {
 	constructor() {
 		// should be initialized with an items property set to an empty array
-		this.items = [];
 	}
 
 	push(item) {
