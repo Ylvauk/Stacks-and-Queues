@@ -79,7 +79,7 @@ The trade-off for limited functionality? Great runtimes, which are the same for 
 | Delete      | Pop             | Dequeue         | O(1)       |
 | Check empty | isEmpty         | isEmpty         | O(1)       |
 
-#####❓ Imagine that you started with an empty stack and perform the following operations:
+##### ❓ Imagine that you started with an empty stack and perform the following operations:
 
 1. `PUSH 0`
 1. `POP`
@@ -91,7 +91,7 @@ The trade-off for limited functionality? Great runtimes, which are the same for 
 
 ##### ...What would the stack look like at the end? (Hint: It might help to sketch this out on a piece of paper!)
 
-#####❓ Imagine that you start with an empty queue and perform the following operations:
+##### ❓ Imagine that you start with an empty queue and perform the following operations:
 
 1. `ENQUEUE 15`
 1. `DEQUEUE`
