@@ -61,7 +61,9 @@ Watching your family take the fresh pancakes off the top of the plate is how a s
 The function call stack is a common example of stacks in programming. When you call a function to execute, it’s pushed to the top of the stack and runs until we add another function to the stack, which then runs until it returns (or another function is pushed to the top), on a last in, first out basis. You can keep adding functions until you’ve run out of space in the stack, in which case you’ve reached stack overflow. (Mmm, pancake stack overflow... 😋)
 
 **❓ What data structure would be represented by the 'back' button in the browser?**
+
 **❓ What data structure would be represented by sending documents to the printer?**
+
 **❓ What data structure would be represented by the 'undo' or Cmd-Z function?**
 
 ## Operations in Stacks & Queues
@@ -113,7 +115,7 @@ Other than using different underlying data structures, there’s no major differ
 
 ##### ❓Quick refresher: The major difference between a linked list and an array is how they store data in a computer’s memory.
 
-##### Which of the following statements is true about how linked lists and arrays store data?
+##### Which of the following statements is true about how linked lists and arrays store data? 🧐
 
 - Linked lists store data in one continuous block of memory.
 - Arrays store data in one continuous block of memory.
@@ -136,7 +138,7 @@ Examples: Airport priority boarding, CPU scheduling
 
 ### Double-Ended Queues
 
-A Double-ended queue, or "deque", perform insertions and deletions at both ends of the queue. They're usually implemented with doubly-linked lists or dynamic arrays.
+A double-ended queue, or "deque", perform insertions and deletions at both ends of the queue. They're usually implemented with doubly-linked lists or dynamic arrays.
 
 Have you ever been last in a long line at the grocery store only to see a cashier one lane over open up their register? Typically, that cashier will beckon to you to jump into their lane so you can be checked out right away. That’s basically what happens in a deque.
 
