@@ -24,7 +24,7 @@ describe('Stack', () => {
 		s.push(7);
 		const poppedItem = s.pop();
 		expect(poppedItem).to.equal(7);
-		expect(s.length).to.equal(1);
+		expect(s.items.length).to.equal(1);
 		s.pop();
 		const empty = s.pop();
 		expect(empty).to.equal('Empty stack!');

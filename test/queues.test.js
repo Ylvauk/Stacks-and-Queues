@@ -24,7 +24,7 @@ describe('Queue', () => {
 		q.enqueue(7);
 		const dequeuedItem = q.dequeue();
 		expect(dequeuedItem).to.equal(6);
-		expect(q.length).to.equal(1);
+		expect(q.items.length).to.equal(1);
 		q.dequeue();
 		const empty = q.dequeue();
 		expect(empty).to.equal('Empty queue!');
