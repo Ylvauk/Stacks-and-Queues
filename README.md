@@ -111,7 +111,7 @@ The other thing that stacks and queues have in common is that they can both be i
 
 Other than using different underlying data structures, there’s no major difference between array and linked list implementation. Which you use depends on how your data is already structured and how you expect to be inserting or removing elements.
 
-> For the implementations in this execise, we'll be using array-based implementations.
+> For the implementations in this exercise, we'll be using array-based implementations.
 
 ##### ❓Quick refresher: The major difference between a linked list and an array is how they store data in a computer’s memory.
 
