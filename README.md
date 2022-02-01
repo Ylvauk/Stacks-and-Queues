@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 
 ```cli
 $ git clone <paste ssh url>
-$ cd graphs
+$ cd stacks-and-queues
 $ npm install
 $ code .
 ```
@@ -113,7 +113,7 @@ Other than using different underlying data structures, there’s no major differ
 
 > For the implementations in this exercise, we'll be using array-based implementations.
 
-##### ❓Quick refresher: The major difference between a linked list and an array is how they store data in a computer’s memory.
+##### ❓ Quick refresher: The major difference between a linked list and an array is how they store data in a computer’s memory.
 
 ##### Which of the following statements is true about how linked lists and arrays store data? 🧐
 
